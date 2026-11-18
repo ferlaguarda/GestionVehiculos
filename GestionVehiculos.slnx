@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="ConsoleApp/ConsoleApp.csproj" Id="35dc4456-55d4-441d-abb8-9f3dc7733402" />
+  <Project Path="Database1/Database1.sqlproj" Id="50b25570-6cd4-4c28-88c2-10c2107e056e">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Entities/Entities.csproj" Id="94258f40-8981-470f-8e27-3a5af3c7ab94" />
+  <Project Path="GestionVehiculos/GestionVehiculos.csproj" />
+  <Project Path="Managers/Managers.csproj" Id="06a4ad2e-cbd1-4144-98ce-c49cbc248271" />
+</Solution>
